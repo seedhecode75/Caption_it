@@ -85,4 +85,4 @@ Thus, for generating captions for any image, the word was found for the index wi
 
 10% of the samples in the dataset were used for testing. Captions were generated using the trained model and then the `BLEU score` was calculated using these generated captions and the actual captions. On evalutation, the model achieved a `BLEU score` of 0.53.
 
-![bleuscore]()
+![bleuscore](https://github.com/user-attachments/assets/95481f69-b52f-41c3-bb31-343e155235fa)
